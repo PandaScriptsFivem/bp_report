@@ -1,4 +1,4 @@
-local webhookURL = "https://ptb.discord.com/api/webhooks/1327974296940843068/vSCFRlmF_R8MEx0NASTzzxPEYfnzdDkBEejU76YEI40fv7ePzNPCwRK4EunGCSixOmyh"
+local webhookURL = ""
 
 function sendwebhook(data, type)
     local connect = {}
